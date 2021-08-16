@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/test/java/tests/pages/HomePage.java" description="driver.manage().timeouts().implicitlyWait(5, TimeU..." line="84" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c45af90-073d-4f30-9ac5-e4095b1f5958" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="720695432">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="feature" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="18" />
+          <entry key="xml" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="18" />
+          <entry key="Substeps" value="1" />
+          <entry key="XML" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="feature" value="173" />
+          <entry key="java" value="749" />
+          <entry key="xml" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="749" />
+          <entry key="Substeps" value="173" />
+          <entry key="XML" value="27" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/pagesTest/HomePageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="86">
+              <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1611#1612#0" expanded="true" />
+                <element signature="e#1640#1641#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-971">
+              <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/setups/Setups.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="44" selection-start-line="44" selection-end-line="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/pages/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
+                <element signature="e#590#591#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>clickAddToCartButton</find>
+      <find>bruno</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/tests/builder/EmailBuilder.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/pagesTest/CartPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/pages/CartPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/pagesTest/CreateAnAccountPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/pagesTest/AutenticationPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/pages/AutenticationPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/pages/CreateAnAccountPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/apis/ApiTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/stepDefs/testStepDef.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/eCuke/ECukeRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/Features/APITest.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/pagesTest/HomePageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/setups/Setups.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="180" />
+    <option name="width" value="1440" />
+    <option name="height" value="821" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="automation-practice-selenium-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automation-practice-selenium-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automation-practice-selenium-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automation-practice-selenium-master" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automation-practice-selenium-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automation-practice-selenium-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automation-practice-selenium-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automation-practice-selenium-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automation-practice-selenium-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automation-practice-selenium-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automation-practice-selenium-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automation-practice-selenium-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automation-practice-selenium-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automation-practice-selenium-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automation-practice-selenium-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automation-practice-selenium-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="pagesTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automation-practice-selenium-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automation-practice-selenium-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="setups" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automation-practice-selenium-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automation-practice-selenium-master" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550767261238" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tests.eCuke" />
+      <recent name="tests.stepDefs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/tests/Features" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.HomePageTest.test_searchForNonExistingItems_checkMessages">
+    <configuration name="HomePageTest.testNonRegisteredUser_emptySearchForAnItem_checkMessages" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automation-practice-selenium-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.pagesTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.pagesTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.pagesTest.HomePageTest" />
+      <option name="METHOD_NAME" value="testNonRegisteredUser_emptySearchForAnItem_checkMessages" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest.testNonRegisteredUser_searchForExistingItems" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automation-practice-selenium-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.pagesTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.pagesTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.pagesTest.HomePageTest" />
+      <option name="METHOD_NAME" value="testNonRegisteredUser_searchForExistingItems" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest.testNonRegisteredUser_searchForNonExistingItems_checkMessages" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automation-practice-selenium-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.pagesTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.pagesTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.pagesTest.HomePageTest" />
+      <option name="METHOD_NAME" value="testNonRegisteredUser_searchForNonExistingItems_checkMessages" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest.testNonRegisteredUser_searchForReturnItems_checkIsDiplayedItems" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automation-practice-selenium-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.pagesTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.pagesTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.pagesTest.HomePageTest" />
+      <option name="METHOD_NAME" value="testNonRegisteredUser_searchForReturnItems_checkIsDiplayedItems" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest.test_searchForNonExistingItems_checkMessages" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automation-practice-selenium-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.pagesTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.pagesTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.pagesTest.HomePageTest" />
+      <option name="METHOD_NAME" value="test_searchForNonExistingItems_checkMessages" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.HomePageTest.testNonRegisteredUser_emptySearchForAnItem_checkMessages" />
+      <item itemvalue="TestNG.HomePageTest.testNonRegisteredUser_searchForExistingItems" />
+      <item itemvalue="TestNG.HomePageTest.testNonRegisteredUser_searchForNonExistingItems_checkMessages" />
+      <item itemvalue="TestNG.HomePageTest.testNonRegisteredUser_searchForReturnItems_checkIsDiplayedItems" />
+      <item itemvalue="TestNG.HomePageTest.test_searchForNonExistingItems_checkMessages" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.HomePageTest.test_searchForNonExistingItems_checkMessages" />
+        <item itemvalue="TestNG.HomePageTest.testNonRegisteredUser_searchForReturnItems_checkIsDiplayedItems" />
+        <item itemvalue="TestNG.HomePageTest.testNonRegisteredUser_searchForNonExistingItems_checkMessages" />
+        <item itemvalue="TestNG.HomePageTest.testNonRegisteredUser_searchForExistingItems" />
+        <item itemvalue="TestNG.HomePageTest.testNonRegisteredUser_emptySearchForAnItem_checkMessages" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c45af90-073d-4f30-9ac5-e4095b1f5958" name="Default Changelist" comment="" />
+      <created>1550766532571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550766532571</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="HomePageTest_testNonRegisteredUser_searchForReturnItems_checkIsDiplayedItems - 2021.08.15 at 21h 25m 21s.xml">
+      <configuration name="HomePageTest.testNonRegisteredUser_searchForReturnItems_checkIsDiplayedItems" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomePageTest_test_searchForNonExistingItems_checkMessages - 2021.08.15 at 21h 55m 00s.xml">
+      <configuration name="HomePageTest.test_searchForNonExistingItems_checkMessages" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomePageTest_test_searchForNonExistingItems_checkMessages - 2021.08.15 at 21h 55m 35s.xml">
+      <configuration name="HomePageTest.test_searchForNonExistingItems_checkMessages" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomePageTest_test_searchForNonExistingItems_checkMessages - 2021.08.15 at 22h 15m 49s.xml">
+      <configuration name="HomePageTest.test_searchForNonExistingItems_checkMessages" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomePageTest_test_searchForNonExistingItems_checkMessages - 2021.08.15 at 22h 26m 35s.xml">
+      <configuration name="HomePageTest.test_searchForNonExistingItems_checkMessages" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomePageTest_test_searchForNonExistingItems_checkMessages - 2021.08.15 at 22h 27m 47s.xml">
+      <configuration name="HomePageTest.test_searchForNonExistingItems_checkMessages" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomePageTest_test_searchForNonExistingItems_checkMessages - 2021.08.15 at 22h 30m 04s.xml">
+      <configuration name="HomePageTest.test_searchForNonExistingItems_checkMessages" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomePageTest_test_searchForNonExistingItems_checkMessages - 2021.08.15 at 22h 33m 34s.xml">
+      <configuration name="HomePageTest.test_searchForNonExistingItems_checkMessages" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomePageTest_test_searchForNonExistingItems_checkMessages - 2021.08.15 at 22h 35m 31s.xml">
+      <configuration name="HomePageTest.test_searchForNonExistingItems_checkMessages" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomePageTest_test_searchForNonExistingItems_checkMessages - 2021.08.15 at 22h 48m 44s.xml">
+      <configuration name="HomePageTest.test_searchForNonExistingItems_checkMessages" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.47089946" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994709" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936507" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936507" />
+      <window_info anchor="right" id="Maven Projects" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/pagesTest/CartPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-785">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8.8/testng-6.8.8.jar!/org/testng/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4161">
+          <caret line="297" column="9" selection-start-line="297" selection-start-column="9" selection-end-line="297" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/pages/CreateAnAccountPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1178">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/pagesTest/CreateAnAccountPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-427">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/pagesTest/AutenticationPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/pages/CartPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="71" column="15" selection-start-line="71" selection-start-column="15" selection-end-line="71" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/pages/AutenticationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-173">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/Features/APITest.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/eCuke/ECukeRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/apis/ApiTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="39" column="8" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/stepDefs/testStepDef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="54" column="42" lean-forward="true" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/setups/Setups.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/builder/EmailBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutomationPracticeSelenium.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/pagesTest/HomePageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1611#1612#0" expanded="true" />
+            <element signature="e#1640#1641#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-971">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
