@@ -45,34 +45,54 @@ public class HomePageTest {
         driver.quit();
     }
 
+    @DataProvider(name="SearchParam")
+    public Object[][] getDataFromDataprovider(){
+        return new Object[][]
+                {
+                        { "T-shirts"},
+                        { "Dress" },
+                        { "Blouse" },
+                        {"Chiffon"},
+                        {"Short Sleeve"}
+                };
+
+    }
+
     @Test
-    public void test_emptySearchForAnItem_checkMessages() {
+    public void TC4_test_emptySearchForAnItem_checkMessages() {
         browser.clickSearchButton();
         browser.checkAlertWarningMessages("Please enter a search keyword", "0 results have been found.");
     }
 
     @Test
-    public void test_searchForExistingItems() {
+    public void TC4_test_searchForExistingItems() {
         browser.fillTheSearchField("dress");
         browser.clickSearchButton();
         browser.checkSearchMessages("SEARCH  \"DRESS\"\n" + "7 results have been found.");
     }
 
+    @Test (dataProvider = "SearchParam")
+    public void TC2_testSearchForItemsDataProvider(String Param) {
+        browser.fillTheSearchField(Param);
+        browser.clickSearchButton();
+        browser.checkSearchMessagesForDataProvider("\""+Param.toUpperCase()+"\"");
+    }
+
     @Test
-    public void test_searchForNonExistingItems_checkMessages() {
+    public void TC3_testSearchForNonExistingItems_checkMessages() {
         browser.fillTheSearchField("test");
         browser.checkAlertWarningMessages("No results were found for your search \"best\"", "0 results have been found.");
     }
 
     @Test
-    public void test_searchForReturnItems_checkIsDiplayedItems() {
-        test_searchForExistingItems();
+    public void TC4_test_searchForReturnItems_checkIsDiplayedItems() {
+        TC4_test_searchForExistingItems();
         browser.checkIsDisplayedElements("dress");
     }
 
 
     @Test
-    public void testaddItemToCart(){
+    public void TC1_testaddItemToCart(){
         browser.fillTheSearchField("dress");
         browser.clickSearchButton();
         browser.clickItem("dress", 10);

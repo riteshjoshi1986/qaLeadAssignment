@@ -29,6 +29,7 @@ public class HomePage {
     }
 
     public void fillTheSearchField(String text) {
+        driver.findElement(By.id("search_query_top")).clear();
         driver.findElement(By.id("search_query_top")).sendKeys(text);
         driver.findElement(By.name("submit_search")).click();
     }
@@ -36,6 +37,11 @@ public class HomePage {
     public void checkSearchMessages(String message) {
         WebElement centerColumn = driver.findElement(By.id("center_column"));
         Assert.assertEquals(message, centerColumn.findElement(By.xpath("//*[@id=\"center_column\"]/h1")).getText());
+    }
+
+    public void checkSearchMessagesForDataProvider(String message) {
+        WebElement centerColumn = driver.findElement(By.id("center_column"));
+        Assert.assertEquals(message, centerColumn.findElement(By.xpath("//*[@id=\"center_column\"]/h1/span")).getText());
     }
 
     public void checkIsDisplayedElements(String search) {
@@ -87,6 +93,5 @@ public class HomePage {
         WebElement ele = driver.findElement(By.xpath("//*[@id=\"layer_cart\"]//*[@title=\"Proceed to checkout\"]"));
         JavascriptExecutor executor = (JavascriptExecutor)driver;
         executor.executeScript("arguments[0].click();", ele);
-        //driver.findElement(By.xpath("//*[@id=\"layer_cart\"]//*[@title=\"Proceed to checkout\"]")).click();
     }
 }
